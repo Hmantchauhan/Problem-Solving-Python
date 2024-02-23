@@ -1,0 +1,9 @@
+Problems:- Write a Program Define Area of Tringle
+
+
+Height = float(input("Enter the height:"))
+Base = float(input("Enter the Base:"))
+
+Area = (1/2)*Base*Height
+
+print("Area of a Tringle", Area)
